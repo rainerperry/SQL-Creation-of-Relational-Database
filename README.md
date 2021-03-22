@@ -1,6 +1,4 @@
 # SQL Creation of Relational Database
-Week 9 homework
-
 
 Step 1: In QuickDBD, an ERD was drawn with the right relationships
 Step 2: The SQL code exported from QuickDBD
