@@ -1,7 +1,7 @@
 --Rainer Perry
 --Data Analysis
---Once you have a complete database, do the following:
 
+--QUERIES
 
 --List the following details of each employee: employee number, last name, first name, sex, and salary.
 
