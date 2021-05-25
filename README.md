@@ -2,8 +2,7 @@
 
 ### Overview
 
-In this project, a database is created for an organization based on six existing separate tables of data in csv form, 
-relationships between the tables are defined based on the existing data in the csv files. In the new relational database, specific queries are performed.<br/>
+In this project, a database is created for an organization based on six existing separate tables of data in csv form. Relationships between the tables are defined based on the existing data. In the new relational database, specific queries are performed.<br/>
 <br/>
 Tools used: QuickDBD, SQL, pgAdmin.
 <br/>
