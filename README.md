@@ -1,4 +1,16 @@
-# SQL Creation of Relational Database
+## SQL Creation of Relational Database
+
+### Overview
+
+In this project, a database is created for an organization, consisting of six tables, and specific queries are performed.
+Tools used: QuickDBD, SQL, pgAdmin.
+
+
+
+
+
+
+
 
 Step 1: In QuickDBD, an ERD was drawn with the right relationships
 Step 2: The SQL code exported from QuickDBD
